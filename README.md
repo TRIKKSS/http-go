@@ -34,12 +34,12 @@ go build
 
 ### *SERVE A FILE :*
 
-![serve file image]("img/serve_file.png")
+![serve file image](img/serve_file.png)
 
 ### *SERVE A DIRECTORY :*
 
-![serve dir image]("img/serve_dir.png")
+![serve dir image](img/serve_dir.png)
 
 ### *REDIRECTION :*
 
-![redirect image]("img/redirect.png")
+![redirect image](img/redirect.png)
